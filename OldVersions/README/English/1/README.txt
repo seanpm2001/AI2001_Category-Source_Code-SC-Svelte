@@ -1,15 +1,18 @@
-# Start of script
-[.ShellClassInfo]
-ConfirmFileOp=0
-NoSharing=1
-IconFile=/MediaSphere1.png
-IconIndex=0
-InfoTip="The source repository for the SourceCode:Svelte category of the AI2001 project."
 
-# File info
+***
 
-# File type: Windows INI file [desktop.ini] (*.ini)
-# File version: 2 (2023, Wednesday, July 5th at 03:12 pm PST)
-# Line count (including blank lines and compiler line): 16
+# [AI2001](https://github.com/seanpm2001/AI2001/) data sets
 
-# End of script
+## Category: Source Code
+
+### Subcategory (SC): Svelte
+
+This dataset is under development/coming soon.
+
+**🌱️ This [`README.md`](/README.md) file is a major stub and need significant expansion**
+
+***
+
+**File version:** `1 (2023, Wednesday, July 5th at 03:10 pm PST)`
+
+***
